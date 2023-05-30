@@ -1,3 +1,3 @@
 # Python_tools
-pythonコードで書いた，便利そうなコード\
-convenient python codes
+便利そうなpythonコード\
+convenient python codes\
