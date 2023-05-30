@@ -1,3 +1,3 @@
 # Python_tools
-便利そうなpythonコード\
-convenient python codes\
+作業に使ったコードの置き場（捨て場）\
+
